@@ -1,8 +1,8 @@
-<img align="center" alt="Hacking" width="400" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
 <h1 align="center">Hi 👋, I'm Minh Huy</h1>
 <h3 align="center">I'm pentester and developer from Viet Nam</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 - 🔭 I'm currently studying at **FPT University**
 
 - 🌱 I’m currently learning **Cybersecurity, Kali Linux**
