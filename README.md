@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently studying at **FPT University**
 
-- 🌱 I’m currently learning **Cybersecurity, Kali Linux**
+- 🌱 I’m currently learning **Cybersecurity, Kali Linux, SQL Injection**
 
 - 💬 Ask me about **C/C++, Java, Python**
 
